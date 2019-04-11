@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MightyBlog</string>
+    <string name="text_reg_name">Enter Your Name</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Passowrd</string>
+    <string name="text_confirm_password">Confirm Password</string>
+    <string name="text_reg_btn">Register Me</string>
+    <string name="text_login_email">Enter Your Email</string>
+    <string name="text_login_button">Log in!</string>
+    <string name="text_login_guide">no account?</string>
+    <string name="text_get_registered">touch here to get Registered!</string>
+    <string name="title_activity_home_nav">HomeNav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_blog_title">Blog title</string>
+    <string name="txt_enter_description">Describe your Blog post</string>
+    <string name="dtaetime_authorname">DateTime||AuthorName</string>
+    <string name="post_details_descText">Post Details Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur consequuntur cumque dignissimos eos exercitationem, fuga harum illo in magni, neque numquam provident quia quisquam repellendus unde veniam voluptas, voluptatibus?</string>
+    <string name="txt_add_new_comment">add a comment</string>
+</resources>

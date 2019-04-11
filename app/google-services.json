@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "899243942790",
+    "firebase_url": "https://mightyblog-d1082.firebaseio.com",
+    "project_id": "mightyblog-d1082",
+    "storage_bucket": "mightyblog-d1082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899243942790:android:803454396177f799",
+        "android_client_info": {
+          "package_name": "com.karigor.mightyblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899243942790-vh2iqn7mr3t4ndmlnhqiqutjkeeu664u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karigor.mightyblog",
+            "certificate_hash": "157dd222cb563e101f7e7a5dbc582871d959c58a"
+          }
+        },
+        {
+          "client_id": "899243942790-6bldujpea4lvpp1dj1dj3mppb7vpjnmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZH1wOuJqOoQLS5CdEeISrUVwrhFgcA24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899243942790-6bldujpea4lvpp1dj1dj3mppb7vpjnmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
